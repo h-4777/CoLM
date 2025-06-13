@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](LICENSE)
 
-![CoLM](C:\Users\sqqq\Downloads\CoLM.jpg)
+![CoLM](./CoLM.jpg)
 
 <p align="center">
   <a href="#colM-overview"><strong>Overview</strong></a> ·
