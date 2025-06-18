@@ -158,7 +158,7 @@ Add your new model with its corresponding `system_prompt` in the `api_config` fi
 
 Add the new model's ID to the `model_list` in `gen_answer_config`:
 
-```json
+```bash
 python generate_arena.py
 ```
 
